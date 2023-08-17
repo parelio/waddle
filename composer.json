@@ -1,12 +1,13 @@
 {
-    "name": "duckfusion/waddle",
+    "name": "parelio/waddle",
     "type": "library",
     "description": "PHP Library for parsing running GPS activities and calculating metrics",
     "keywords": ["gps", "tcx", "gpx", "pwx", "running", "parse"],
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Conn Warwicker"
+            "name": "Conn Warwicker",
+            "name": "Matthias Scheidl"
         }
     ],
     "require": {
